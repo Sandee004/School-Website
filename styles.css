@@ -4,7 +4,7 @@
 @media only screen and (min-width: 800px) {
     body{
         font-family: 'Poppins', sans-serif;
-        width: 1500px;
+        width: 1460px;
     }
     .top-navbar{
         width: 100%;
@@ -47,6 +47,6 @@
         margin-left: 175px;
     }
     img{
-        width: 1500px;
-        height: 800px;
+        width: 1460px;
+        height: 850px;
 }
