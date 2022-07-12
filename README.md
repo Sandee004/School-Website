@@ -1,3 +1,4 @@
 # School-Website
-A demo for Olive GreenWood School Website
-Preview here: https://sandee004.github.io/School-Website/
+A re-up for Jephthah Comprehensive Schools Website
+Old site: https://www.jephthah.net/
+New Site: https://sandee004.github.io/School-Website/
