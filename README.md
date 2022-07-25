@@ -1,6 +1,4 @@
 # School-Website
-A re-up for Jephthah Comprehensive Schools Website
-
-Old site: https://www.jephthah.net/
+A website for Jephthah Comprehensive Schools Website
 
 New Site: https://sandee004.github.io/School-Website/
