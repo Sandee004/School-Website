@@ -3,8 +3,7 @@
 }
 @media only screen and (min-width: 800px) {
     body{
-        /*font-family: 'Poppins', sans-serif;*/
-        font-family: 'Uchen', serif;
+        font-family: 'Poppins', sans-serif;
         width: 1340px;
         margin: auto;
         background-color: #BFD4F6;
@@ -76,7 +75,7 @@
     .sub-head{
         font-size: 23px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Uchen', serif;
         text-align: center;
     }
     .about-info{
